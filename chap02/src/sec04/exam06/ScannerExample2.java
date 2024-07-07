@@ -3,7 +3,7 @@ package sec04.exam06;
 import java.util.Scanner;
 
 // Scanner를 이용해서 이름, 주민번호, 전화번호를 키보드에서 입력하고 출력하기
-public class Scanner2Example {
+public class ScannerExample2 {
 
 	public static void main(String[] args) throws Exception {
 		Scanner scanner = new Scanner(System.in);
