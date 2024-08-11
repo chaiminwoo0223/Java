@@ -12,7 +12,7 @@ public class VarExample2 {
 		method2();
 	}
 
-	// 전통적 방식대로 구체적 타입을 사용한 메소드
+	// 전통적인 방식대로 구체적인 타입을 사용한 메소드
 	public static void method1() {
 		Map<String, Integer> map = new HashMap<String, Integer>();
 		map.put("신용권", 85);
