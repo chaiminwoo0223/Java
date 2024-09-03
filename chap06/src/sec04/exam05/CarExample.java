@@ -1,6 +1,6 @@
 package sec04.exam05;
 
-//클레스 외부에서 메소드 호출
+// 클레스 외부에서 메소드 호출
 public class CarExample {
 
 	public static void main(String[] args) {
