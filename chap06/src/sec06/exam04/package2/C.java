@@ -9,7 +9,6 @@ public class C {
 		a.field1 = 1;
 //		a.field2 = 1; // 컴파일 에러
 //		a.field3 = 1; // 컴파일 에러
-
 		a.method1();
 //		a.method2(); // 컴파일 에러
 //		a.method3(); // 컴파일 에러
